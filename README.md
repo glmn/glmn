@@ -10,3 +10,4 @@
 🎯 **Библиотеки**
 * 🪓 Вскрываю незадокументированное Клиентское API Wildberries **[wb-private-api](https://github.com/glmn/wb-private-api)**
 
+![](https://hit.yhype.me/github/profile?user_id=1326151)
